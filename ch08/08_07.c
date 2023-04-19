@@ -15,7 +15,7 @@ int main(void)
     long stop;                      //用户指定的范围最大值
     double answer;
 
-    printf("This program computer the sum of the squares of "
+    printf("This program computes the sum of the squares of "
            "integers in a range.\nThe lower bound should not "
            "be less than -10000000 and\nthe upper bound "
            "should not be more than +10000000.\nEnter the "
